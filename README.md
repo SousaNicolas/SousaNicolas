@@ -1,7 +1,7 @@
 ## Olá, eu sou Nicolas! 👋
 
 - 🔭 Hoje eu trabalho com Robotics Process Automation (RPA)
-- 🌱 Estudando Java
+- 🌱 Estudando Java e Python
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
